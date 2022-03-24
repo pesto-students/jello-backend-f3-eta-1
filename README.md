@@ -50,8 +50,9 @@ password: pesto123
 # Technology Stack
 We tried to use a completely modern tech stack while testing out some new technologies that we had never used before. This resulted in a fast, performant, and easily-extensible web app that should be fairly future-proof for the coming next several years. We used:
 
-React <br />
-Redux-thunk
+Node <br />
+Express <br />
+MongoDB
 
 # Authors
 Rajarshi Ghoshal <br />
